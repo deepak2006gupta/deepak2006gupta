@@ -43,12 +43,6 @@ I'm a B.Tech student and Java Development intern who enjoys building end-to-end 
 - React component design and state management
 - Data structures and algorithms with Java
 
-## Suggested Pinned Repositories
-
-`Deepak-Portfolio` -> `stream-backend` -> `GriHom` -> `Cognifyz` -> `ReactFarm` -> `weatherapp`
-
-This order highlights your portfolio first, then backend/full-stack work, frontend UI projects, and Java fundamentals.
-
 ## Contact
 
 - Email: [deepak2006gupta@outlook.com](mailto:deepak2006gupta@outlook.com)
