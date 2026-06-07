@@ -17,8 +17,8 @@ Java • Spring Boot • MongoDB • React • Git
 - Password Strength Checker
 
 ## 📈 GitHub Stats
-(Stats Cards)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak2006gupta&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2006gupta&layout=compact&theme=tokyonight)
 ## 🐍 Contribution Snake
 (Snake Animation)
 
